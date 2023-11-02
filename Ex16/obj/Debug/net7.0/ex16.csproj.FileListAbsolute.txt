@@ -1,0 +1,14 @@
+D:\SOC\llista03\ex16\bin\Debug\net7.0\ex16.exe
+D:\SOC\llista03\ex16\bin\Debug\net7.0\ex16.deps.json
+D:\SOC\llista03\ex16\bin\Debug\net7.0\ex16.runtimeconfig.json
+D:\SOC\llista03\ex16\bin\Debug\net7.0\ex16.dll
+D:\SOC\llista03\ex16\bin\Debug\net7.0\ex16.pdb
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.AssemblyInfoInputs.cache
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.AssemblyInfo.cs
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.csproj.CoreCompileInputs.cache
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.dll
+D:\SOC\llista03\ex16\obj\Debug\net7.0\refint\ex16.dll
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.pdb
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ex16.genruntimeconfig.cache
+D:\SOC\llista03\ex16\obj\Debug\net7.0\ref\ex16.dll
