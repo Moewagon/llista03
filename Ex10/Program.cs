@@ -5,9 +5,10 @@
         static void Main(string[] args)
         {
             //Fes un programa que demani una lletra i digui si és majúscula, minúscula o no és lletra.
-            
+            char caracter;
+
             Console.WriteLine("Entra un caracter qualsevol:");
-            char caracter = Console.ReadKey().KeyChar;
+            caracter = Console.ReadKey().KeyChar;
 
             if (char.IsLetter(caracter))
             {
