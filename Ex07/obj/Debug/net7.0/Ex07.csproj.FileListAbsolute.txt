@@ -1,0 +1,14 @@
+D:\SOC\llista03\Ex07\bin\Debug\net7.0\Ex07.exe
+D:\SOC\llista03\Ex07\bin\Debug\net7.0\Ex07.deps.json
+D:\SOC\llista03\Ex07\bin\Debug\net7.0\Ex07.runtimeconfig.json
+D:\SOC\llista03\Ex07\bin\Debug\net7.0\Ex07.dll
+D:\SOC\llista03\Ex07\bin\Debug\net7.0\Ex07.pdb
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.AssemblyInfoInputs.cache
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.AssemblyInfo.cs
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.csproj.CoreCompileInputs.cache
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.dll
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\refint\Ex07.dll
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.pdb
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\Ex07.genruntimeconfig.cache
+D:\SOC\llista03\Ex07\obj\Debug\net7.0\ref\Ex07.dll

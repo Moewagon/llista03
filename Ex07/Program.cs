@@ -25,6 +25,11 @@
                 esp = eur * 166.386;
                 Console.WriteLine($"{eur} euros equivaleixen a {esp} pessetes.");
             }
+            else
+            {
+                Console.WriteLine("--------------------------------------------------");
+                Console.WriteLine("El numero introduït no es valid. Tecleja qualsevol tecla per tancar el programa");
+            }
         }
     }
 }
