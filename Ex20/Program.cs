@@ -5,17 +5,19 @@
         static void Main(string[] args)
         {
             char carnetJove,esDimarts,esFinde;
-            double preuTotal,descDimarts,descCJ;
+            double preuTotal,preuBase,descDimarts,descCJ;
             string missatgeError;
+            preuBase = 5;
+            descDimarts = 20;
+            descCJ = 15;
             missatgeError = "\nHas entrat una resposta invalida.";
-            preuTotal = 5;
-            descDimarts = 0.2;
-            descCJ = 0.15;
-
+            
+            
             Console.WriteLine("Avui es cap de setmana? (s/n)");
             esFinde = Console.ReadKey().KeyChar;
             if (esFinde == 's')
             {
+                preuTotal =preuBase;
                 Console.WriteLine($"\nLa entrada te un preu de {preuTotal} euros");
             }
             else if (esFinde =='n')
@@ -24,7 +26,7 @@
                 esDimarts = Console.ReadKey().KeyChar;
                 if (esDimarts == 's')
                 {
-                    preuTotal = 5 - (5 * descDimarts);
+                    preuTotal = preuBase - (preuBase * (descDimarts/100));
                     Console.WriteLine($"\nLa entrada te un preu de {preuTotal} euros");
                 }
                 else if (esDimarts == 'n')
@@ -33,11 +35,12 @@
                     carnetJove = Console.ReadKey().KeyChar;
                     if(carnetJove == 's')
                     {
-                        preuTotal = 5 - (5 * descCJ);
+                        preuTotal = preuBase - (preuBase * (descCJ/100));
                         Console.WriteLine($"\nLa entrada te un preu de {preuTotal} euros");
                     }
                     else if(carnetJove == 'n')
                     {
+                        preuTotal = preuBase;
                         Console.WriteLine($"\nLa entrada te un preu de {preuTotal} euros");
                     }
                     else

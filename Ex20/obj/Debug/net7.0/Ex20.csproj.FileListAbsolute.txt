@@ -12,3 +12,17 @@ D:\SOC\llista03\Ex20\obj\Debug\net7.0\refint\Ex20.dll
 D:\SOC\llista03\Ex20\obj\Debug\net7.0\Ex20.pdb
 D:\SOC\llista03\Ex20\obj\Debug\net7.0\Ex20.genruntimeconfig.cache
 D:\SOC\llista03\Ex20\obj\Debug\net7.0\ref\Ex20.dll
+D:\SOC\CarlosS\llista03\Ex20\bin\Debug\net7.0\Ex20.exe
+D:\SOC\CarlosS\llista03\Ex20\bin\Debug\net7.0\Ex20.deps.json
+D:\SOC\CarlosS\llista03\Ex20\bin\Debug\net7.0\Ex20.runtimeconfig.json
+D:\SOC\CarlosS\llista03\Ex20\bin\Debug\net7.0\Ex20.dll
+D:\SOC\CarlosS\llista03\Ex20\bin\Debug\net7.0\Ex20.pdb
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.AssemblyInfoInputs.cache
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.AssemblyInfo.cs
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.csproj.CoreCompileInputs.cache
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.dll
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\refint\Ex20.dll
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.pdb
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\Ex20.genruntimeconfig.cache
+D:\SOC\CarlosS\llista03\Ex20\obj\Debug\net7.0\ref\Ex20.dll

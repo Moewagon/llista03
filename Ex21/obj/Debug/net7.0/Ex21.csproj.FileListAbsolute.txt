@@ -1,0 +1,14 @@
+D:\SOC\CarlosS\llista03\Ex21\bin\Debug\net7.0\Ex21.exe
+D:\SOC\CarlosS\llista03\Ex21\bin\Debug\net7.0\Ex21.deps.json
+D:\SOC\CarlosS\llista03\Ex21\bin\Debug\net7.0\Ex21.runtimeconfig.json
+D:\SOC\CarlosS\llista03\Ex21\bin\Debug\net7.0\Ex21.dll
+D:\SOC\CarlosS\llista03\Ex21\bin\Debug\net7.0\Ex21.pdb
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.AssemblyInfoInputs.cache
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.AssemblyInfo.cs
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.csproj.CoreCompileInputs.cache
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.dll
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\refint\Ex21.dll
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.pdb
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\Ex21.genruntimeconfig.cache
+D:\SOC\CarlosS\llista03\Ex21\obj\Debug\net7.0\ref\Ex21.dll

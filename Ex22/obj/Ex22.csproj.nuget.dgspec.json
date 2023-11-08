@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOC\\CarlosS\\llista03\\Ex20\\Ex20.csproj": {}
+    "D:\\SOC\\CarlosS\\llista03\\Ex22\\Ex22.csproj": {}
   },
   "projects": {
-    "D:\\SOC\\CarlosS\\llista03\\Ex20\\Ex20.csproj": {
+    "D:\\SOC\\CarlosS\\llista03\\Ex22\\Ex22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOC\\CarlosS\\llista03\\Ex20\\Ex20.csproj",
-        "projectName": "Ex20",
-        "projectPath": "D:\\SOC\\CarlosS\\llista03\\Ex20\\Ex20.csproj",
+        "projectUniqueName": "D:\\SOC\\CarlosS\\llista03\\Ex22\\Ex22.csproj",
+        "projectName": "Ex22",
+        "projectPath": "D:\\SOC\\CarlosS\\llista03\\Ex22\\Ex22.csproj",
         "packagesPath": "C:\\Users\\soc\\.nuget\\packages\\",
-        "outputPath": "D:\\SOC\\CarlosS\\llista03\\Ex20\\obj\\",
+        "outputPath": "D:\\SOC\\CarlosS\\llista03\\Ex22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soc\\AppData\\Roaming\\NuGet\\NuGet.Config",

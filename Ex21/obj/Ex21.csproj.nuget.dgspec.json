@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOC\\llista03\\Ex21\\Ex21.csproj": {}
+    "D:\\SOC\\CarlosS\\llista03\\Ex21\\Ex21.csproj": {}
   },
   "projects": {
-    "D:\\SOC\\llista03\\Ex21\\Ex21.csproj": {
+    "D:\\SOC\\CarlosS\\llista03\\Ex21\\Ex21.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOC\\llista03\\Ex21\\Ex21.csproj",
+        "projectUniqueName": "D:\\SOC\\CarlosS\\llista03\\Ex21\\Ex21.csproj",
         "projectName": "Ex21",
-        "projectPath": "D:\\SOC\\llista03\\Ex21\\Ex21.csproj",
-        "packagesPath": "C:\\Users\\Moewagon\\.nuget\\packages\\",
-        "outputPath": "D:\\SOC\\llista03\\Ex21\\obj\\",
+        "projectPath": "D:\\SOC\\CarlosS\\llista03\\Ex21\\Ex21.csproj",
+        "packagesPath": "C:\\Users\\soc\\.nuget\\packages\\",
+        "outputPath": "D:\\SOC\\CarlosS\\llista03\\Ex21\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Moewagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\soc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
