@@ -1,0 +1,14 @@
+D:\SOC\Moewagon\llista03\Ex28\bin\Debug\net7.0\Ex28.exe
+D:\SOC\Moewagon\llista03\Ex28\bin\Debug\net7.0\Ex28.deps.json
+D:\SOC\Moewagon\llista03\Ex28\bin\Debug\net7.0\Ex28.runtimeconfig.json
+D:\SOC\Moewagon\llista03\Ex28\bin\Debug\net7.0\Ex28.dll
+D:\SOC\Moewagon\llista03\Ex28\bin\Debug\net7.0\Ex28.pdb
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.AssemblyInfoInputs.cache
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.AssemblyInfo.cs
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.csproj.CoreCompileInputs.cache
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.dll
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\refint\Ex28.dll
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.pdb
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\Ex28.genruntimeconfig.cache
+D:\SOC\Moewagon\llista03\Ex28\obj\Debug\net7.0\ref\Ex28.dll

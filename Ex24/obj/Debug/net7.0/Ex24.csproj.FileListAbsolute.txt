@@ -1,0 +1,14 @@
+D:\SOC\Moewagon\llista03\Ex24\bin\Debug\net7.0\Ex24.exe
+D:\SOC\Moewagon\llista03\Ex24\bin\Debug\net7.0\Ex24.deps.json
+D:\SOC\Moewagon\llista03\Ex24\bin\Debug\net7.0\Ex24.runtimeconfig.json
+D:\SOC\Moewagon\llista03\Ex24\bin\Debug\net7.0\Ex24.dll
+D:\SOC\Moewagon\llista03\Ex24\bin\Debug\net7.0\Ex24.pdb
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.AssemblyInfoInputs.cache
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.AssemblyInfo.cs
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.csproj.CoreCompileInputs.cache
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.dll
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\refint\Ex24.dll
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.pdb
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\Ex24.genruntimeconfig.cache
+D:\SOC\Moewagon\llista03\Ex24\obj\Debug\net7.0\ref\Ex24.dll

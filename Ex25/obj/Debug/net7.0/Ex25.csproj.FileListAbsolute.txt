@@ -1,0 +1,14 @@
+D:\SOC\Moewagon\llista03\Ex25\bin\Debug\net7.0\Ex25.exe
+D:\SOC\Moewagon\llista03\Ex25\bin\Debug\net7.0\Ex25.deps.json
+D:\SOC\Moewagon\llista03\Ex25\bin\Debug\net7.0\Ex25.runtimeconfig.json
+D:\SOC\Moewagon\llista03\Ex25\bin\Debug\net7.0\Ex25.dll
+D:\SOC\Moewagon\llista03\Ex25\bin\Debug\net7.0\Ex25.pdb
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.AssemblyInfoInputs.cache
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.AssemblyInfo.cs
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.csproj.CoreCompileInputs.cache
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.dll
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\refint\Ex25.dll
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.pdb
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\Ex25.genruntimeconfig.cache
+D:\SOC\Moewagon\llista03\Ex25\obj\Debug\net7.0\ref\Ex25.dll
